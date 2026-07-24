@@ -1,0 +1,13 @@
+☐ Project planning
+
+☐ Create Expense class
+
+☐ Add expense
+
+☐ Save JSON
+
+☐ Read JSON
+
+☐ Split expenses
+
+☐ PyAutoGUI automation
