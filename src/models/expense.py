@@ -15,6 +15,15 @@ Realease Date: {self.release_date}"""
         return f"""Store: {self.store_name}\nAmount: {self.amount}\nCategory: {self.category}
 Payment Method: {self.payment_method}
 Realease Date: {self.release_date}"""
+
+    def to_dict(self):
+        return {
+        'store_name': self.store_name,
+        'amount': self.amount,
+        'category': self.category,
+        'payment_method': self.payment_method,
+        'release_date': self.release_date
+        }
     
 
 

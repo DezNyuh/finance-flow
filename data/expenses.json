@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "store_name": "FIFA",
+    "amount": 700.0,
+    "category": "Game",
+    "payment_method": "Pix",
+    "release_date": "30/07/2026"
+  }
+]
