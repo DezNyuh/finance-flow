@@ -1,9 +1,9 @@
 [
   {
-    "store_name": "FIFA",
-    "amount": 700.0,
+    "store_name": "Efootball",
+    "amount": 50.0,
     "category": "Game",
-    "payment_method": "Pix",
-    "release_date": "30/07/2026"
+    "payment_method": "Card",
+    "release_date": "03/08/2026"
   }
 ]

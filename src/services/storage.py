@@ -13,7 +13,6 @@ def write_json(expenses):
         json.dump(list_expenses, f, indent=2) 
 
 def read_json():
-    print(EXPENSES_FILE)
     try:
         with open(EXPENSES_FILE, 'r', encoding='utf8') as f:
             file_data = json.load(f)
